@@ -1,4 +1,4 @@
-package models;
+package br.com.dh.lojaonline.model;
 
 import java.util.*;
 
